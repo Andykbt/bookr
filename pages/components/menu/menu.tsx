@@ -5,7 +5,7 @@ import { Center, Menu as MenuContainer } from "./menu-styled";
 const navItems = [
   {
     name: "About us",
-    url: "/About"
+    url: "/about"
   },
 ];
 
