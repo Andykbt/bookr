@@ -1,0 +1,15 @@
+{
+    "singleQuote": true,
+    "tabWidth": 4,
+    "semi": true,
+    "importOrder": [
+        "^@/styles/(.*)$",
+        "next/(.*)$",
+        "^@/components/layouts",
+        "^@/components/widgets",
+        "^@/(.*)$",
+        "^[./]"
+    ],
+    "importOrderSeparation": true,
+    "importOrderSortSpecifiers": true
+}
